@@ -1,7 +1,7 @@
 # Belly Button Biodiversity
 
 ### Background
-Building an interactive dashboard to explore the Belly Button Biodiversity DataSet. Information on the project can be found [here](http://robdunnlab.com/projects/belly-button-biodiversity/)
+Building an interactive dashboard to explore the Belly Button Biodiversity DataSet. Information on the original project can be found [here](http://robdunnlab.com/projects/belly-button-biodiversity/)
 
 ### Plotly.js
 - Creating a PIE chart that uses data from the samples route (/samples/<sample>) to display the top 10 samples.
